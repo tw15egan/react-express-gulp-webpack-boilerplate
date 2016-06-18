@@ -71,7 +71,7 @@
 	      React.createElement(
 	        'h1',
 	        null,
-	        'React + Express + Gulp + Webpack Boilerplate'
+	        'React + Express + Gulp + Webpack Boilerplate Test'
 	      )
 	    );
 	  }

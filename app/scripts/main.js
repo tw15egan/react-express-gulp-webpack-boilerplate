@@ -17,7 +17,7 @@ var App = React.createClass({
   render : function() {
     return (
       <div class="container">
-        <h1>React + Express + Gulp + Webpack Boilerplate</h1>
+        <h1>React + Express + Gulp + Webpack Boilerplate Test</h1>
       </div>
     )
   }
