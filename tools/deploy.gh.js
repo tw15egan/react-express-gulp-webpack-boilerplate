@@ -7,7 +7,7 @@ const task = require('./task');
 
 const remote = {
   name: 'github',
-  url: 'https://github.com/marijohannessen/react-express-gulp-webpack-boilerplate.git',
+  url: 'https://github.com/tw15egan/react-express-gulp-webpack-boilerplate.git',
   branch: 'gh-pages',
 };
 
